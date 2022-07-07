@@ -1,4 +1,4 @@
-# Twitter-follower-scrapper
+# Twitter-follower-scraper
 
 This script can gather all the usernames of a twitter user we specify
 into a txt file, to run this script you need to copy this repo
